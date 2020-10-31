@@ -13,4 +13,5 @@ url: 'https://www.infodev.com/'
 - Develop SOA based application based on .NET Core
 - Responsible for debugging and error handling of legacy projects
 - Create and optimize complex T-SQL Queries
+- Create, assign and review development tasks based on client requirements
 - Design and Implement User Interfaces using HTML, CSS, Javascript
