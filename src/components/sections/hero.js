@@ -49,7 +49,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Samyeak Maharjan.</h2>;
-  const three = <h3 className="big-heading">Keep Calm and Keep Coding.</h3>;
+  const three = <h3 className="big-heading">Keep Calm and Code.</h3>;
   const four = (
     <p>
       I'm a full stack software engineer based in Kathmandu, Nepal specializing in building enterprise grade applications, and everything in between.
